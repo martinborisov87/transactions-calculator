@@ -58,7 +58,7 @@ Where:
 
 # Holding.java
 
-[Holding.java](Holding.java)
+[Holding.java](src/main/java/com/nutmeg/transactions/model/Holding.java)
 
 # Example
 ## Example input file
